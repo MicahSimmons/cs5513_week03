@@ -1,0 +1,18 @@
+{
+    "crayons": [
+        { "color": "Red", "hex": "rgb(255,0,0)"},
+        { "color": "Blue", "hex": "rgb(0,0,255)" },
+        { "color": "Green", "hex": "rgb(0,255,0)" },
+        { "color": "Yellow", "hex": "rgb(255,255,0)"},
+        { "color": "Magenta", "hex": "rgb(255,0,255)"},
+        { "color": "Cyan", "hex": "rgb(0,255,255)"},
+        { "color": "Rose", "hex": "rgb(255,0,127)"},
+        { "color": "Violet", "hex": "rgb(127,0,255)"},
+        { "color": "Azure", "hex": "rgb(0,127,255)"},
+        { "color": "Spring Green", "hex": "rgb(0,255,127)"},
+        { "color": "Chartreuse", "hex": "rgb(233,255,0)"},
+        { "color": "Orange", "hex": "rgb(255,165,0)"},
+        { "color": "White", "hex": "rgb(255,255,255)"},
+        { "color": "Black", "hex": "rgb(0,0,0)"}
+    ]
+}
